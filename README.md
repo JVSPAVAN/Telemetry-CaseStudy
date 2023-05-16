@@ -7,11 +7,11 @@ IoT Final Project
 https://www.youtube.com/watch?v=IP0M1YtJOe0
 
 # Team Members
-Pavan Kumar Jonnadula
-Vamsi Alapaty
-Harish Jaladi
-Shajahan Mohammad
-Ramya Deshetti
-Naveen Krishnam
-Sarath Boddu
+Pavan Kumar Jonnadula <br />
+Vamsi Alapaty <br />
+Harish Jaladi <br />
+Shajahan Mohammad <br />
+Ramya Deshetti <br />
+Naveen Krishnam <br />
+Sarath Boddu <br />
 Raju Thada
